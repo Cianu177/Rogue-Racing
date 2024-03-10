@@ -1,0 +1,41 @@
+Easy to use antigravity ship.
+
+Just drag&drop demoShip prefab and camera prefab to the scene.
+Controlled by left/rigt keys depending on yout axis settings, so it works with controllers also.
+
+For start "RaceShip Tilt" and "AIship" prefabs add GameManager to the scene (from Scripst folder), this will call OnShipStart event to start the race.
+
+For mobile version add Joypad dual prefab and EventSystem.
+
+For AI Controlled Ship use Utility / WayPoints Circuit, as shown in AI demo and Race demo scenes (prefab in Circuit folder)
+
+To use your own ship modell, change the ship mesh in demoship prefab for your own.
+
+To setup Race Position check and Wrong Way detection:
+-need to have WayPoints Circuit on your scene with correct waypoints setup on your racetrack, see Race Demo scenes WayPoints Circuit for reference.
+- on racers set the WayPoints Circuit object property on Distance Tracker component.
+- on HUD Canvas set the Player / AI properties on HUD Manager component.
+
+
+
+!!! You can UPGRADE from this packege to CHR - Complete Hover Racer for a discountet price !!!
+Log-in to Assetstore and check CHR, the price spent for this Antigrav package will be cut from CHR price.
+(Instead of $49.9 discounted to $34.9)
+===		Asset store link: http://u3d.as/1Eh5	===
+
+
+
+Version changes:
+
+=== 3.01 ===
+-	Added rigidBodyHover option to RaceShip and AiShip.
+	RigidBodyHover switch between using transform or rigidbody hovering, 
+	if ON, hover uses rigidbody MoveRotation and MovePosition instead of transform rotation and position.
+
+=== 3.1 ===
+-	Added new circuit.
+
+=== 3.2 ===
+-	Added Drift setup
+-	Adjustable Brake Power
+-	Wall rebound On/Off

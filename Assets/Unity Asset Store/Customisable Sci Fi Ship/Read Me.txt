@@ -1,0 +1,21 @@
+Thank you for purchasing the Customisable Sci Fi Vehicle from the Unity Asset Store!
+
+=Changing the vehicles Base Colours:=
+Within the package you will find a .png texture called "Sci_Fi_Vehicle_Base_Color_Layout".
+Import it into your favourite image editing software and modify the texture in any way you want.
+Save and import the new texture into Unity and then add it to the substance under the "Custom_Texture_Mask" Input.
+
+=Edges and scratches:=
+The Substance texture has various sliders that allow you to change the amount of paint scratches on the ship.
+These are grouped under the "Edges" dropdown.
+
+=Model:=
+(Data from Blender)
+Tris: 5.7k
+Verts: 3k
+
+=Other:=
+-Try playing around with different shaders, e.g. the built-in toon shader is effective
+
+Any questions, feature requests or feedback please contact me at:
+bevansmedia@gmail.com
