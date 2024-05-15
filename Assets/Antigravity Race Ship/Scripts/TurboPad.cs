@@ -8,7 +8,8 @@ public class TurboPad : MonoBehaviour {
 	public GameObject turboPrefab;
 	public LayerMask roadLayers;
 	[Range (0.05f, 0.2f)] public float snapHeight = 0.1f;
-
+	public AudioClip BoostPadFX;
+	public AudioSource PlayeraudioSource;
 	private BoxCollider col;
 
 
@@ -22,6 +23,10 @@ public class TurboPad : MonoBehaviour {
 
 	void OnTriggerEnter (Collider other) {
 		other.GetComponentInParent<IShip> ()?.Turbo_On ();
+        if (other.gameObject.CompareTag("Player"))
+        {
+			PlayeraudioSource.PlayOneShot(BoostPadFX);
+        }
 	}
 
 
