@@ -148,7 +148,7 @@ public class RaceShip : MonoBehaviour, IShip {
 
 		} else {    // IF NOT AUTO ACCELERATION
 
-			manualThrust = thrust * Input.GetAxis ("Vertical");
+			manualThrust = thrust * Input.GetAxisRaw("Vertical");
 			if (manualThrust < 0) {
 				thrustForce = Mathf.Lerp (thrustForce, 0, brakePower);
 			} else if (manualThrust > 0) {
