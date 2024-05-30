@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: 9ddd1a65440135143b4185627b854108
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: bone01_1
+    100002: bone01_2
+    100004: bone02_1
+    100006: bone02_2
+    100008: bone03_1
+    100010: bone04_1
+    100012: bone04_2
+    100014: bone04_2 1
+    100016: boneGround
+    100018: boneTop
+    100020: cylinder_01
+    100022: cylinder_02
+    100024: cylinder_03
+    100026: cylinder_04
+    100028: ground
+    100030: pillar01-top
+    100032: pillar02-top
+    100034: pillar03-top
+    100036: pillar04-top
+    100038: pillar_01
+    100040: pillar_02
+    100042: pillar_03
+    100044: pillar_04
+    100046: //RootNode
+    100048: top
+    400000: bone01_1
+    400002: bone01_2
+    400004: bone02_1
+    400006: bone02_2
+    400008: bone03_1
+    400010: bone04_1
+    400012: bone04_2
+    400014: bone04_2 1
+    400016: boneGround
+    400018: boneTop
+    400020: cylinder_01
+    400022: cylinder_02
+    400024: cylinder_03
+    400026: cylinder_04
+    400028: ground
+    400030: pillar01-top
+    400032: pillar02-top
+    400034: pillar03-top
+    400036: pillar04-top
+    400038: pillar_01
+    400040: pillar_02
+    400042: pillar_03
+    400044: pillar_04
+    400046: //RootNode
+    400048: top
+    2100000: metal
+    2100002: 'left Slot #6'
+    2100004: chrome
+    2300000: ground
+    2300002: pillar01-top
+    2300004: pillar02-top
+    2300006: pillar03-top
+    2300008: pillar04-top
+    2300010: pillar_01
+    2300012: pillar_02
+    2300014: pillar_03
+    2300016: pillar_04
+    2300018: top
+    3300000: ground
+    3300002: pillar01-top
+    3300004: pillar02-top
+    3300006: pillar03-top
+    3300008: pillar04-top
+    3300010: pillar_01
+    3300012: pillar_02
+    3300014: pillar_03
+    3300016: pillar_04
+    3300018: top
+    4300000: ground
+    4300002: pillar_01
+    4300004: cylinder_01
+    4300006: pillar_02
+    4300008: cylinder_02
+    4300010: pillar_03
+    4300012: cylinder_03
+    4300014: pillar_04
+    4300016: cylinder_04
+    4300018: top
+    4300020: pillar01-top
+    4300022: pillar02-top
+    4300024: pillar03-top
+    4300026: pillar04-top
+    9500000: //RootNode
+    13700000: cylinder_01
+    13700002: cylinder_02
+    13700004: cylinder_03
+    13700006: cylinder_04
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,190 @@
+fileFormatVersion: 2
+guid: 7095f1efd289fd948b5ddc938d655bce
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: fire
+    100002: fireBone_001
+    100004: fireBone_002
+    100006: fireBone_003
+    100008: fireBone_004
+    100010: fireBone_005
+    100012: fireBone_006
+    100014: fireBone_007
+    100016: fireBone_008
+    100018: fireBone_009
+    100020: fireBone_010
+    100022: fireBone_011
+    100024: fireBone_012
+    100026: fireBone_013
+    100028: fireBone_014
+    100030: fireBone_015
+    100032: fireBone_016
+    100034: fireBone_017
+    100036: fireBone_018
+    100038: fireBone_019
+    100040: fireBone_020
+    100042: fireBone_021
+    100044: fireBone_022
+    100046: fireBone_023
+    100048: fireBone_024
+    100050: fireBone_025
+    100052: fireBone_026
+    100054: fireBone_027
+    100056: fireBone_028
+    100058: fireBone_029
+    100060: fireBone_030
+    100062: fireBone_031
+    100064: fireBone_032
+    100066: fireBone_033
+    100068: fireBone_034
+    100070: fireBone_035
+    100072: fireBone_036
+    100074: fireBone_037
+    100076: fireBone_038
+    100078: fireBone_039
+    100080: fireBone_040
+    100082: flamingHoop
+    100084: //RootNode
+    100086: leg
+    100088: legBone_bottom
+    100090: legBone_top
+    400000: fire
+    400002: fireBone_001
+    400004: fireBone_002
+    400006: fireBone_003
+    400008: fireBone_004
+    400010: fireBone_005
+    400012: fireBone_006
+    400014: fireBone_007
+    400016: fireBone_008
+    400018: fireBone_009
+    400020: fireBone_010
+    400022: fireBone_011
+    400024: fireBone_012
+    400026: fireBone_013
+    400028: fireBone_014
+    400030: fireBone_015
+    400032: fireBone_016
+    400034: fireBone_017
+    400036: fireBone_018
+    400038: fireBone_019
+    400040: fireBone_020
+    400042: fireBone_021
+    400044: fireBone_022
+    400046: fireBone_023
+    400048: fireBone_024
+    400050: fireBone_025
+    400052: fireBone_026
+    400054: fireBone_027
+    400056: fireBone_028
+    400058: fireBone_029
+    400060: fireBone_030
+    400062: fireBone_031
+    400064: fireBone_032
+    400066: fireBone_033
+    400068: fireBone_034
+    400070: fireBone_035
+    400072: fireBone_036
+    400074: fireBone_037
+    400076: fireBone_038
+    400078: fireBone_039
+    400080: fireBone_040
+    400082: //RootNode
+    400084: flamingHoop
+    400086: leg
+    400088: legBone_bottom
+    400090: legBone_top
+    2100000: metal
+    2100002: chrome
+    2100004: fire
+    2300000: flamingHoop
+    3300000: flamingHoop
+    4300000: flamingHoop
+    4300002: leg
+    4300004: fire
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: fire
+    13700002: leg
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

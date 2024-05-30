@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: bbd88c40d210f8f4198c8f9f687c7ed0
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: bone_009
+    100002: bone_010
+    100004: bone_011
+    100006: bone_012
+    100008: bone_013
+    100010: bone_014
+    100012: bone_015
+    100014: bone_016
+    100016: Spring008
+    100018: Spring009
+    100020: Spring010
+    100022: Spring011
+    100024: springJoint-b_005
+    100026: springJoint-b_006
+    100028: springJoint-b_007
+    100030: springJoint-b_008
+    100032: springJoint-t_005
+    100034: springJoint-t_006
+    100036: springJoint-t_007
+    100038: springJoint-t_008
+    100040: //RootNode
+    100042: trapFloor001
+    400000: bone_009
+    400002: bone_010
+    400004: bone_011
+    400006: bone_012
+    400008: bone_013
+    400010: bone_014
+    400012: bone_015
+    400014: bone_016
+    400016: Spring008
+    400018: Spring009
+    400020: Spring010
+    400022: Spring011
+    400024: springJoint-b_005
+    400026: springJoint-b_006
+    400028: springJoint-b_007
+    400030: springJoint-b_008
+    400032: springJoint-t_005
+    400034: springJoint-t_006
+    400036: springJoint-t_007
+    400038: springJoint-t_008
+    400040: //RootNode
+    400042: trapFloor001
+    2100000: glass
+    2100002: metal
+    2100004: chrome
+    2300000: springJoint-b_005
+    2300002: springJoint-b_006
+    2300004: springJoint-b_007
+    2300006: springJoint-b_008
+    2300008: springJoint-t_005
+    2300010: springJoint-t_006
+    2300012: springJoint-t_007
+    2300014: springJoint-t_008
+    2300016: trapFloor001
+    3300000: springJoint-b_005
+    3300002: springJoint-b_006
+    3300004: springJoint-b_007
+    3300006: springJoint-b_008
+    3300008: springJoint-t_005
+    3300010: springJoint-t_006
+    3300012: springJoint-t_007
+    3300014: springJoint-t_008
+    3300016: trapFloor001
+    4300000: trapFloor001
+    4300002: springJoint-t_005
+    4300004: springJoint-t_006
+    4300006: springJoint-t_007
+    4300008: springJoint-t_008
+    4300010: springJoint-b_005
+    4300012: springJoint-b_006
+    4300014: springJoint-b_007
+    4300016: springJoint-b_008
+    4300018: Spring008
+    4300020: Spring009
+    4300022: Spring010
+    4300024: Spring011
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Spring008
+    13700002: Spring009
+    13700004: Spring010
+    13700006: Spring011
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

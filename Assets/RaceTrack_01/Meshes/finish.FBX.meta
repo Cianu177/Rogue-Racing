@@ -1,0 +1,152 @@
+fileFormatVersion: 2
+guid: d156caea502bcd04facee52c2b026597
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: curbs_l
+    100002: curbs_l-collider
+    100004: curbs_r
+    100006: curbs_r-collider
+    100008: //RootNode
+    100010: finishLine
+    100012: sign
+    100014: signMount
+    100016: wall_l
+    100018: wall_l-collider
+    100020: wall_r
+    100022: wall_r-collider
+    400000: curbs_l
+    400002: curbs_l-collider
+    400004: curbs_r
+    400006: curbs_r-collider
+    400008: //RootNode
+    400010: finishLine
+    400012: sign
+    400014: signMount
+    400016: wall_l
+    400018: wall_l-collider
+    400020: wall_r
+    400022: wall_r-collider
+    2100000: road
+    2100002: red
+    2100004: black
+    2100006: white
+    2100008: chrome
+    2100010: glass
+    2300000: curbs_l
+    2300002: curbs_l-collider
+    2300004: curbs_r
+    2300006: curbs_r-collider
+    2300008: //RootNode
+    2300010: finishLine
+    2300012: sign
+    2300014: signMount
+    2300016: wall_l
+    2300018: wall_l-collider
+    2300020: wall_r
+    2300022: wall_r-collider
+    3300000: curbs_l
+    3300002: curbs_l-collider
+    3300004: curbs_r
+    3300006: curbs_r-collider
+    3300008: //RootNode
+    3300010: finishLine
+    3300012: sign
+    3300014: signMount
+    3300016: wall_l
+    3300018: wall_l-collider
+    3300020: wall_r
+    3300022: wall_r-collider
+    4300000: finish_01
+    4300002: wall_r
+    4300004: wall_l
+    4300006: signMount
+    4300008: sign
+    4300010: finishLine
+    4300012: curbs_r
+    4300014: curbs_l
+    4300016: wall_r-collider
+    4300018: wall_l-collider
+    4300020: curbs_r-collider
+    4300022: curbs_l-collider
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
