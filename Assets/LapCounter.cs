@@ -8,6 +8,7 @@ public class LapCounter : MonoBehaviour
     public int checkpointCounter;
     public int lapCount;
     public GameObject FinishUI;
+    public GameTimer Timer;
     // Update is called once per frame
     void Update()
     {
@@ -20,6 +21,7 @@ public class LapCounter : MonoBehaviour
         if (lapCount >= 3)
         {
             FinishUI.SetActive(true);
+            Timer.PauseTimer();
         }
 
         if (lapCount <= 3)
