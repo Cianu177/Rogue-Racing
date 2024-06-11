@@ -9,6 +9,6 @@ EditorBuildSettings:
     path: Assets/Scenes/Main Menu.unity
     guid: 8e4b50e968092fe4fb080298e537aba1
   - enabled: 1
-    path: Assets/Scenes/First Built Scene.unity
+    path: Assets/Scenes/Skyline Drive.unity
     guid: ca662e9043ff3864bbf9fa38d4ce044b
   m_configObjects: {}
