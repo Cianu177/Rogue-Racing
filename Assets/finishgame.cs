@@ -10,18 +10,33 @@ public class finishgame : MonoBehaviour
     public void Start()
     {
         FinishUI.SetActive(false);
+        Debug.Log("FinishUI Inactive");
     }
 
     public void Update()
     {
-        if (lapCounter.lapCount <= 3)
+        if (lapCounter.lapCount == 4)
         {
-            FinishUI.SetActive(true);
-            Timer.PauseTimer();
+            this.gameObject.SetActive(true);
+         
+           
+    
         }
     }
     private void OnTriggerEnter(Collider other)
     {
+        if (other.gameObject.tag == "Player")
+        {
+            StartCoroutine(FinishFade());
+        }
+
+    }
+    public IEnumerator FinishFade()
+    {
+        Timer.PauseTimer();
+        FinishUI.SetActive(true);
+        yield return new WaitForSeconds(1.5f);
+        //enter upgrade ui
         
     }
 }

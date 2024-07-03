@@ -1,3 +1,4 @@
+using JetBrains.Annotations;
 using System.Collections;
 using System.Collections.Generic;
 using TMPro;
@@ -12,6 +13,11 @@ public class LapCounter : MonoBehaviour
     public GameObject Finishline;
     public bool finalLap;
     // Update is called once per frame
+
+    private void Start()
+    {
+        FinishUI.SetActive(false);
+    }
     void Update()
     {
         if (lapCount == 3)
@@ -26,12 +32,22 @@ public class LapCounter : MonoBehaviour
 
         
 
-        if (finalLap && checkpointCounter == 10)
+        if (lapCount==4 )
         {
-            Finishline.SetActive(true);
+            StartCoroutine(FinishUIfadeinfadeout());
+            Debug.Log("Has Finished");
         }
 
-        
-     
+        if (Finishline == null)
+        {
+            return;
+        }
+
+    }
+    public IEnumerator FinishUIfadeinfadeout()
+    {
+        Finishline.SetActive(true);
+        yield return new WaitForSeconds(3f);
+        Finishline.SetActive(false);
     }
 }
