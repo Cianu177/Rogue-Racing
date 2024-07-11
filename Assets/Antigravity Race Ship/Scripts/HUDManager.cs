@@ -6,6 +6,7 @@ public class HUDManager : MonoBehaviour {
 
 	[SerializeField] private Text posText;
 	[SerializeField] private Text infoText;
+	[SerializeField] private Text lapCount;
 	[Space (10)]
 	[SerializeField] private DistanceTracker playerShip;
 	private Transform playerBody;
